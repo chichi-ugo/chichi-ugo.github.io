@@ -2,4 +2,4 @@
 
 ### Please follow the link below to view:
 
-[View my Portfoli](https://chichi-ugo.github.io/)
+[View my Portfolio](https://chichi-ugo.github.io/)
